@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GilbertoSouza97
 - 👀 I’m interested in study code.
-- 🌱 I’m currently learning Java, Javascript.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
